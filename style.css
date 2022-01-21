@@ -1,0 +1,266 @@
+body {
+  font-family:'DM Sans', Sans; !important;
+  border-radius: 0.625vw;
+}
+div .orange {
+position: absolute;
+width: 65.2037617554859vw;
+height: 43.573667711598745vw;
+left: 20.53291536050156vw;
+top: -0.15673981191222572vw;
+font-family: inherit;
+animation-name: example;
+animation-duration: 3s;
+animation-delay: 0.5s;
+border-radius: 1.2539184952978057vw;
+
+background:linear-gradient(123.75deg, #F5821F 1.87%, #FF5C00 120.46%);
+}
+
+@keyframes example {
+  from {left: : 0vw; background-color: transparent;}
+  to {bottom: 47.02194357366771vw; background-color: orange;}
+}
+.orange {
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  justify-content: center;
+  font-family: 'DM Sans';
+}
+.white {
+position: absolute;
+width: 61.12852664576803vw;
+height: 57.99373040752351vw;
+left:22.53291536050156vw;
+top: 24.69905956112853vw;
+background: #FFFFFF;
+border: 0.15673981191222572vw solid #E4E4E4;
+box-sizing: border-box;
+box-shadow: 0vw 0vw 3.9184952978056424vw rgba(0, 0, 0, 0.05);
+border-radius: 1.2539184952978057vw;
+animation-name: white;
+animation-duration: 2s;
+animation-delay: 1s;
+
+
+}
+@keyframes white {
+  from {background-color: transparent;}
+  to {bottom-left: 47.02194357366771vw; background-color: white;}
+}
+.hello {
+position: absolute;
+width: 29.46708463949843vw;
+height: 2.8213166144200628vw;
+left: 5.6426332288401255vw;
+top: 6.896551724137931vw;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 2.19435736677116vw;
+line-height: 2.8213166144200628vw;
+color: #2D2D2D;
+}
+.content {
+  text-align: left;
+  margin-left: 4.702194357366771vw;
+  color: white;
+}
+.box {
+  text-align: left;
+  line-height:1.8808777429467085vw;
+  top: 15.360501567398119vw;
+  list-style: none;
+}
+
+.line1{
+position: absolute;
+width: 52.82131661442006vw;
+height: 7.836990595611285vw;
+left: 6.112852664576803vw;
+top:  12.539184952978056vw;
+line-height: 0.80em;
+background: #FFFFFF;
+border: 0.15673981191222572vw solid #E1E1E1;
+box-sizing: border-box;
+box-shadow: 0vw 0vw 1.2539184952978057vw rgba(0, 0, 0, 0.05);
+border-radius: 1.2539184952978057vw;
+justify-content: center;
+padding: 2.3510971786833856vw 2.3510971786833856vw  3.134796238244514vw  3.134796238244514vw;
+
+}
+.line2 {
+position: absolute;
+width: 54.075235109717866vw;
+height: 7.836990595611285vw;
+left: 5.956112852664577vw;
+top:  21.630094043887148vw;
+background: #FFFFFF;
+border: 0.15673981191222572vw solid #E1E1E1;
+box-sizing: border-box;
+box-shadow: 0vw 0vw 1.2539184952978057vw rgba(0, 0, 0, 0.05);
+border-radius: 1.2539184952978057vw;
+padding: 2.3510971786833856vw 2.3510971786833856vw  3.134796238244514vw  3.134796238244514vw;
+
+}
+.line3 {
+position: absolute;
+width: 53.13479623824451vw;
+height: 7.836990595611285vw;
+left: 6.112852664576803vw;
+top: 30.721003134796238vw;
+background: #FFFFFF;
+border: 0.15673981191222572vw solid #E1E1E1;
+box-sizing: border-box;
+box-shadow: 1.2539184952978057vw rgba(0, 0, 0, 0.05);
+border-radius: 1.2539184952978057vw;
+padding: 2.3510971786833856vw 2.3510971786833856vw  3.134796238244514vw  3.134796238244514vw;
+
+}
+.line4{
+position: absolute;
+width:  53.13479623824451vw;
+height: 7.836990595611285vw;
+left: 5.956112852664577vw;
+top: 39.81191222570533vw;
+background: #FFFFFF;
+border: 0.15673981191222572vw solid #E1E1E1;
+box-sizing: border-box;
+box-shadow: 0px 0px 1.2539184952978057vw rgba(0, 0, 0, 0.05);
+border-radius: 1.2539184952978057vw;
+padding:2.3510971786833856vw 2.3510971786833856vw  3.134796238244514vw  3.134796238244514vw;
+
+}
+.parent {
+position: relative;
+width: 65.2037617554859vw;
+height: 98.58934169278997vw;
+background: #FFFFFF;
+box-shadow: 0px 0px 7.836990595611285vw rgba(0, 0, 0, 0.08);
+border-radius: 2.8213166144200628vw;
+}
+.submit-btn
+{
+  position: absolute;
+  width: 42.00626959247649vw;
+  height: 6.896551724137931vw;
+  left: 11.598746081504702vw;
+  top: 48.90282131661442vw;
+  background: #FFFFFF;
+  border:  0.15673981191222572vw solid #D1D1D1;
+  box-sizing: border-box;
+  box-shadow: 0px 0.6269592476489029vw 0.7836990595611285vw
+  rgba(0, 0, 0, 0.1);
+  border-radius: 15.67398119122257vw;
+}
+.dot {
+position: relative;
+width:  8.620689655172415vw;
+height:  8.620689655172415vw;
+left: 4.231974921630094vw;
+top: -6.112852664576803vw;
+border-radius: 50%;
+background: linear-gradient(123.75deg, #F5821F 1.87%, #FF5C00 120.46%);
+box-shadow: 0px 0px 2.3510971786833856vw rgba(0, 0, 0, 0.15);
+}
+.vector {
+position:relative;
+left: 31%;
+right: 79.61%;
+top: 34.2%;
+bottom: 68.14%;
+height: 29px;
+}
+.msg {
+position: absolute;
+left: 34%;
+right: 0%;
+top: 40%;
+bottom: 5.12%;
+height:15px;
+width:15px;
+background:white;
+}
+.circle1 {
+position: absolute;
+width:1.2539184952978057vw;
+height: 1.2539184952978057vw;
+left:  7.053291536050157vw;
+top: 13.652664576802507vw;
+border-radius: 50%;
+background: rgba(255, 118, 0, 0.8);
+z-index: 1;
+}
+.queries {
+  list-style: none;
+}
+.circle2 {
+  position: absolute;
+  width:  1.2539184952978057vw;
+  height:  1.2539184952978057vw;
+  left: 7.053291536050157vw;
+  top: 23.1435736677116vw;
+  border-radius: 50%;
+  background: rgba(255, 118, 0, 0.8);
+  z-index: 1;
+
+}
+.circle3{
+
+  position: absolute;
+  width: 1.2539184952978057vw;
+  height: 1.2539184952978057vw;
+  left: 7.053291536050157vw;
+  top: 32.23448275862069vw;
+  border-radius: 50%;
+  background: rgba(255, 118, 0, 0.8);
+  z-index: 1;
+
+}
+.circle4 {
+
+  position: absolute;
+  width: 1.2539184952978057vw;
+  height: 1.2539184952978057vw;
+  left: 7.053291536050157vw;
+  top: 41.58213166144201vw;
+  border-radius: 50%;
+  background: rgba(255, 118, 0, 0.8);
+  z-index: 1;
+
+}
+.question {
+z-index: 1;
+position: absolute;
+width: 2.9780564263322886vw;
+height:  3.4482758620689653vw;
+font-weight:900;
+justify-content: center;
+left: 28.996865203761754vw;
+text-align: center;
+
+background: rgba(247, 183, 49, 0.12);
+border-radius: 50%;
+top:  -2.664576802507837vw;
+color: orange;
+
+}
+.hand {
+  z-index:1 ;
+  margin-top: -12.9078369905956115vw;
+  margin-left:  4.404388714733543vw;
+  height: 3.134796238244514vw;
+  width: 3.9184952978056424vw;
+  position:absolute;
+  left: 8%;
+  right: 5.56%;
+  top: 44.7%;
+  bottom: 4%;
+}
+.heading {
+  padding: 0px 0px 0px 0px;
+}
+.intro {
+  position: absolute;
+}
